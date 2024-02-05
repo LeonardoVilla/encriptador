@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    background:#E5E5E5;
+}
+
+.right{
+    background: #ffffff;
+    border-radius: 6px;
+
+}
+
+.borda_botao{
+    border-color: #0A3871;
+}
+
+.cor-texto{
+    color: #0A3871;
+}
+
+.larg-btn{
+    width: 200px;
+    
+}
+
+.bckg-t-area{
+    background: none;
+    border:none;
+    border-style: none;
+    resize: none;
+    outline: none;
+    text-align: center;
+}
+
+::placeholder{
+    color: #0A3871;
+    font-size: 1rem;
+}
